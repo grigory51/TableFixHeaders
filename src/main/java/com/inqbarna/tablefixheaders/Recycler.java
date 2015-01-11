@@ -7,7 +7,7 @@ import android.view.View;
 /**
  * The Recycler facilitates reuse of views across layouts.
  * 
- * @author Brais Gabín (InQBarna)
+ * @author Brais Gabn (InQBarna)
  */
 public class Recycler {
 
